@@ -1,0 +1,123 @@
+#container {
+	width: 80%;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+#docTitle {
+
+}
+#identification {
+	position: relative;
+	top:0;
+}
+h2.subTitle {
+	position: relative;
+	top:0;
+}
+a.webLink {
+
+}
+#part1 {
+	position: relative;
+	top:0;
+}
+h2.partTitle {
+
+}
+table.menu {
+	width: 100%;
+}
+td.image {
+	vertical-align: top;
+}
+img.menu {
+	border: solid 1px;
+}
+td.menu {
+	vertical-align: top;
+	width: 100%;
+}
+form.menu {
+	border: solid 1px;
+}
+p.itemMenu {
+	text-align: left;
+	display:block;
+
+}
+#part2 {
+	position: relative;
+	top: 0;
+}
+#name {
+
+}
+#level {
+
+}
+.goodAnswer {
+	color: green;
+}
+.badAnswer {
+	color: red;
+}
+#part3 {
+	position: relative;
+	top: 0;
+}
+#results {
+
+}
+#part4 {
+	position: relative;
+	top: 0;
+	border: solid 1px #c3c3c3;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 3px;
+}
+#animTitle {
+	position: relative;
+	top: 0;
+	padding: 5px;
+	margin: 0px;
+  background-color: #e5eecc;
+}
+#panel {
+	position: relative;
+	top: 0;
+	padding: 50px;
+	margin-top: 20px;
+    background-color: #e5eecc;
+	display: none;
+}
+#panel {
+	padding: 50px;
+    display: none;
+}
+
+#footer {
+	position: relative;
+	top: 0;
+}
+table.footerTable {
+	width: 100%;
+}
+td.htmlValid {
+	width: 50%;
+	text-align: left;
+}
+td.cssValid {
+	width: 50%;
+	text-align: left;
+}
+img.htmlValidW3C {
+
+}
+img.cssValidW3C {
+
+}
